@@ -1,0 +1,4 @@
+olaola999
+port 5432
+pjadmin :graphical user interface
+npm install --save pg pg-hstore
